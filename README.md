@@ -6,3 +6,5 @@ Im adding these lines to test github's internal code editor.
 
 Trying it again because it failed miserably the first time
 
+One last time to test merge functionality
+
